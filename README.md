@@ -1,6 +1,13 @@
 # embedded2018
 embedded-seonjoo
 
+
+smart farm 
+https://www.youtube.com/watch?v=3TdJ09_84is
+시연 
+
+
+=============================================================================================================================
 Product management device using ultrasonic sensor
 
 I think that it can be used in the process of packing products produced by using ultrasonic sensors, or in various processes.
